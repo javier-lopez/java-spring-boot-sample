@@ -1,0 +1,13 @@
+platform: linux
+
+image_resource:
+  type: docker-image
+  source:
+    repository: maven
+    tag: 3.5.0-jdk-8
+
+inputs:
+- name: java-spring-boot-sample
+
+run:
+  path: ./java-spring-boot-sample/test/run.sh

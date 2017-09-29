@@ -1,4 +1,4 @@
-# java-spring-boot sample web app , bump version 2
+# java-spring-boot sample web app , bump version 2, stage
 
 This example is a simulation of a Task Manager using Spring boot and CI with Concourse, original: https://github.com/gabrielfeitosa/ci-spring-boot
 
